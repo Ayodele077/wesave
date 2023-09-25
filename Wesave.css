@@ -1,0 +1,797 @@
+.hero-box{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: linear-gradient(199.49deg, rgba(207, 218, 255, 0.71) 12.43%, rgba(215, 224, 255, 0.19) 79.39%);
+}
+
+.nav-bar{
+    margin-left: 132px;
+    margin-right: 132px;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.left-section{
+    display: flex;
+    align-items: center;
+}
+
+.logo{
+    width: 37px;
+    margin-right: 10px;
+}
+
+.we{
+    font-weight: bold;
+    font-size: 28px;
+}
+
+.save{
+    color: #226CDB;
+}
+
+.middle-section{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+
+.home{
+    color: #226CDB;
+     box-sizing: border-box;
+     border-bottom: 3px solid;
+     padding-bottom: 5px;
+     font-weight: 500;
+     margin-bottom: 9px;
+}
+
+.patients{
+    width: 90px;
+}
+
+.right-section{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    height: 48px;
+}
+
+.login-button{
+    font-size: 16px;
+    width: 76px;
+    height: 48px;
+    border-color: #226CDB;
+    border-radius: 5px;
+    background: none;
+    color: #226CDB;
+    filter: drop-shadow(0px 7px 22px rgba(34, 108, 219, 0.35));
+
+}
+
+.signup-button{
+    font-size: 16px;
+    width: 92px;
+    height: 48px;
+    border-color: #226CDB;
+    border-radius: 5px;
+    background: #226CDB;
+    color: white;
+    box-shadow: 0px 7px 22px rgba(34, 108, 219, 0.35);
+}
+
+.doctor-div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 132px;
+    margin-right: 132px;
+}
+
+.lead-info{
+    width: 330px
+}
+
+.main-title{
+    font-weight: 700;
+    font-size: 50px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.health{
+   color: #226CDB; 
+}
+
+.long-text{
+    width: 330px;
+    line-height: 148.5%;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+.specialist{
+    font-size: 16px;
+    margin-top: 0px;
+    width: 185px;
+    height: 48px;
+    border-color: #226CDB;
+    border-radius: 5px;
+    background: #226CDB;
+    color: white;
+    box-shadow: 0px 7px 22px rgba(34, 108, 219, 0.35);
+}
+
+.doc-qualities{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.years-of-experience{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 15px;
+    gap: 10px;
+    width: 119px;
+    height: 111px;
+    background: linear-gradient(143.71deg, rgba(34, 108, 219, 0.04) 0%, rgba(34, 108, 219, 0.0084) 102.37%);
+    border-radius: 5px;
+}
+
+.thirteen{
+    font-weight: 600;
+    font-size: 24px;
+    color: #226CDB;
+    margin-bottom: 0px;
+}
+
+.under{
+    text-align: center;
+}
+
+.specialist-doctor{
+    text-align: center;
+    width: 100px;
+}
+
+.what-we-offer-section{
+    margin-top: 980px;
+    display: flex;
+    gap: 80px;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 220px;
+}
+
+.numberone-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    
+}
+
+.text-what{
+    font-weight: 700;
+    font-size: 18px;
+    color: #226CDB;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.services-offer{
+    font-size: 46px;
+    font-weight: 700;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.we-offer{
+    color: #226CDB;
+}
+
+.offer-long-text{
+    font-size: 16px;
+    font-weight: 400;
+    color: #6B6B6B;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.second-div{
+   display: flex;
+   gap: 55px;
+}
+
+.cardiology-box{
+    background-color: white;
+    box-shadow: 0px 8px 32px rgba(143, 143, 143, 0.12);
+    border-radius: 10px;
+    padding: 30px;
+}
+
+.heart-image{
+    width: 86px;
+}
+
+.cardiology{
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 30px;
+    margin-bottom: 16px;
+}
+
+.cardiology-long-text{
+    width: 250px;
+    font-size: 16px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.choose-us-container{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 220px;
+    gap: 20px;
+   
+}
+
+.slide-one{
+    margin-left: 50px;
+}
+
+.shield-extra{
+    margin-right: 50px;
+}
+
+.choose-text{
+    color: #226CDB;
+    margin-top: 0px;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.whyo{
+    font-size: 46px;
+    font-weight: 700;
+    margin-top: 15px;
+}
+
+.choose-us{
+    color: #226CDB;
+}
+
+.shield-box{
+    display: flex;
+    align-items: center;
+    box-shadow: 0px 8px 16px rgba(143, 143, 143, 0.1);
+    border-radius: 10px;
+    padding: 20px;
+    width: 420px;
+    margin-bottom: 30px;
+}
+
+.shield{
+    width: 72px;
+    height: 72px;
+}
+
+.shield-text{
+    margin-left: 30px;
+}
+
+.confidential{
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 15px;
+    margin-top: 0px;
+}
+
+.all-patient{
+    font-size: 14px;
+    color: #6B6B6B;
+    width: 320px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+}
+
+.shield-extra{
+    gap: 50px;
+}
+
+.fourth-frame{
+    background: #F0F3FF;
+    padding: 136px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 220px;
+}
+
+.div-for-both{
+    display: flex;
+    gap: 66px;
+}
+
+.booking{
+    color: #226CDB;
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: 0px;
+    margin-bottom: 25px;
+}
+
+.good-service{
+    font-size: 36px;
+    font-weight: 700;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+
+.better-health{
+    color: #226CDB;
+}
+
+.mother-child-long-text{
+    width: 480px;
+    margin-top: 0px;
+    margin-bottom: 25px;
+}
+
+.amazing{
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+
+.checkmark{
+    width: 15px;
+    margin-right: 5px;
+}
+
+.the-hours{
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 0px;
+    margin-bottom: 40px;
+}
+
+.book-button{
+    font-size: 16px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-color: #226CDB;
+    border-radius: 5px;
+    background: #226CDB;
+    color: white;
+    box-shadow: 0px 7px 22px rgba(34, 108, 219, 0.35);
+}
+
+.our-experts-div{
+margin-bottom: 220px;
+}
+
+.expert-text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.our{
+    color: #226CDB;
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+
+.meet{
+font-size: 46px;
+font-weight: 700;
+margin-top: 0px;
+margin-bottom: 70px;
+}
+
+.expert-box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 66px;
+}
+
+.doctors-box{
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+}
+
+.dr-jenny-div{
+    box-shadow: 0px 4px 16px rgba(143, 143, 143, 0.12);
+    border-radius: 10px;
+    width: 289px;
+    height: 437px;
+}
+
+.jenny-image-div{
+    display: flex;
+    justify-content: center;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    background: linear-gradient(148.49deg, #B2CCF2 -1.72%, rgba(178, 204, 242, 0) 100.21%);
+}
+
+.arrow-left{
+    padding: 11.5px;
+    width: 35px;
+    height: 35px;
+    border-radius: 5px;
+    box-shadow: 0px 7px 22px rgba(143, 143, 143, 0.16);
+}
+
+.arrow-right{
+    transform: rotate(180deg);
+    padding: 11.5px;
+    width: 35px;
+    height: 35px;
+    border-radius: 5px;
+    box-shadow: 0px 7px 22px rgba(143, 143, 143, 0.16);
+}
+
+
+.jenny-text-div{
+    padding: 20px;
+}
+
+.dr-jenny-name{
+    margin-top: 0px;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.jenny-long-text{
+    color: #6B6B6B;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.gyna{
+    color: #226CDB;
+    background: #E7F0FF;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: inline-block;
+    border-radius: 5px;
+}
+
+.read-more-div{
+display: flex;
+display: inline-block;
+padding: 0px;
+align-items: center;
+}
+
+.read-text{
+color: #226CDB;
+font-size: 14px;
+font-weight: 400;
+margin-top: 0px;
+margin-bottom: 0px;
+}
+
+.frame-arrow-right{
+    width: 12px;
+    margin-left: 8px;
+}
+
+.feedback-og-div{
+    margin-bottom: 220px;
+}
+
+.reviews-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.review{
+    color: #226CDB;
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+
+.our-patient{
+    font-size: 46px;
+    font-weight: 700;
+    margin-top: 0px;
+    margin-bottom: 70px;
+}
+
+.feed-blue-text{
+    color: #226CDB;
+}
+
+.feedback-container{
+    display: flex;
+    flex-direction: column;
+    gap: 45px;
+}
+
+.feedback-one{
+    display: flex;
+    justify-content: center;
+    gap: 45px;
+}
+
+.first-feedbacker{
+    display: inline-block;
+    padding: 30px;
+    box-shadow: 0px 4px 16px rgba(143, 143, 143, 0.12);
+    border-radius: 10px;
+}
+
+
+
+.white-chick-text{
+    color: #6B6B6B;
+    font-size: 14px;
+    font-weight: 400;
+    width: 243px;
+    margin-bottom: 28px;
+}
+
+.fill-star{
+    width: 16px;
+}
+
+.star-div{
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.stroke-star{
+    width: 16px;
+    margin-right: 8px;
+}
+
+.four-three{
+    font-size: 14px;
+    color: #6B6B6B;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.white-chick-div{
+    margin-bottom: 25px;
+}
+
+.rita{
+    color: #226CDB;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.uk{
+    color: #6B6B6B;
+}
+
+.got-question-main-container{
+    background: #F0F3FF;
+    padding: 113px;
+}
+
+.div-for-both-column{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 65px;
+}
+
+.div-text-header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.faq{
+    color: #226CDB;
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+
+.got-question{
+    font-size: 46px;
+    font-weight: 700;
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+
+.here-help{
+    font-size: 46px;
+    font-weight: 700;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.here{
+    color: #226CDB;
+}
+
+.div-with-three{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.dropdown-box{
+    background-color: white;
+    width: 1178px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    border-radius: 15px;
+}
+
+.internal-div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.book-text-div{
+font-size: 24px;
+font-weight: 700;
+}
+
+.dropdown-icon{
+width: 40px;
+}
+
+.last-og{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 220px;
+}
+
+.last-container{
+    width: 1240px;
+}
+
+.sub-box{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 100px;
+}
+
+.subscribe-for-email-div{
+    display: flex;
+    flex-direction: column;
+}
+
+.sube{
+    font-size: 32px;
+    font-weight: 700;
+    margin-top: 0px;
+    margin-bottom: 14px;
+}
+
+.subd{
+    font-size: 18px;
+    font-weight: 400;
+    width: 400px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+
+
+.enter-email-div{
+    padding: 30px;
+    box-shadow: 0px 4px 16px rgba(143, 143, 143, 0.12);
+    width: 636px;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.sub-button{
+    font-size: 16px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    height: 48px;
+    border-color: #226CDB;
+    border-radius: 5px;
+    background: #226CDB;
+    color: white;
+    box-shadow: 0px 7px 22px rgba(34, 108, 219, 0.35);
+}
+
+.line{
+    margin-bottom: 100px;
+}
+
+.we-logo{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.social-media{
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+
+.wee{
+    font-weight: 700;
+    font-size: 28px;
+}
+
+.savee{
+    color: #226CDB;
+}
+
+.we-long-text{
+    font-size: 18px;
+    font-weight: 400;
+    width: 380px;
+    line-height: 26.55px;
+}
+
+.we-save-about-box{
+    display: flex;
+    justify-content: space-between;
+}
+
+.lap-box{
+    display: flex;
+    justify-content: space-between;
+    gap: 55px;
+}
+
+.ll{
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.one{
+    font-size: 18px;
+    color: #6B6B6B;
+}
+
+.last-part{
+    margin-top: 100px;
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.linee{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
